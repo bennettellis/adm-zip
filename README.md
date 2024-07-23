@@ -9,7 +9,7 @@ With [npm](https://www.npmjs.com/) do:
     $ npm install adm-zip
 
 ## What is it good for?
-
+ 
 The library allows you to:
 
 -   decompress zip files directly to disk or in memory buffers
